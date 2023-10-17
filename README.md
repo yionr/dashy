@@ -109,7 +109,7 @@
 
 ## Getting Started 🚀
 
-> For full setup instructions, see: [**Deployment**](./docs/deployment.md)
+> For full setup instructions, see: [Deployment](./docs/deployment.md)
 
 ### Deploying from Docker Hub 🐳
 
